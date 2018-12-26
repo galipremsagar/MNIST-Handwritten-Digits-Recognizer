@@ -8,9 +8,7 @@ Files of datasets are:
 	mnist_train.csv
 	
 	Source: https://www.kaggle.com/oddrationale/mnist-in-csv or https://pjreddie.com/projects/mnist-in-csv/
-2. UCI_Credit_Card.csv
-	
-	Source: https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
+
 
 Open Command line:
 
